@@ -13,6 +13,8 @@
 ####   -Helps developers in faster coding, in-turn reduces development cost.
 
 ## Release History:-
+* 0.2.2
+  * Updated index.html
 * 0.2.1
   * Sources provided
 * 0.2.0 
